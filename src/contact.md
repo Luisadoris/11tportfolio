@@ -3,7 +3,6 @@ title: contact
 layout: base.njk
 tags: navItem
 ---
-
 <main id="main-doc">
  <section class="contact-page-section">
       <div class="container">
